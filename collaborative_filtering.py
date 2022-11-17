@@ -145,8 +145,7 @@ if __name__ == '__main__':
     tmdb.language = 'pl'
     search = Search()
 
-    recommended_films = set()
-    description = set() # we dont want repeated films
+    recommended_films = set() # we dont want repeated films
     not_recommended_films = set()  # we dont want repeated films
     acceptable_diff = 0.1  # acceptable diff
 
