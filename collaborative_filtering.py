@@ -2,6 +2,9 @@
 ==========================================
 Program to recommend movies which user should/ should not watch
 
+Disclaimer:
+Some users add shows not movies in database and TMDb api don't have all descriptions
+
 Creators:
 Michał Cichowski
 Dominik Pasymowski
@@ -119,6 +122,7 @@ def print_title_and_plot(film_set_to_print):
     for film in film_set_to_print:
         movie_description = search.movies({"query": film})
         print("'",film,"'")  # we print plot description
+
         for result in movie_description:
             print(result.overview) # we print plot description
 
