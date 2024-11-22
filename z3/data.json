@@ -1,0 +1,520 @@
+{
+    "people": [
+        {
+            "name": "Paweł Czapiewski",
+            "recommendations": [
+                {
+                    "movie": "Jak sprzedawać dragi w sieci (szybko)",
+                    "score": "9"
+                },
+                {
+                    "movie": "Samce Alfa",
+                    "score": "8"
+                },
+                {
+                    "movie": "Niebieskoki Samuraj",
+                    "score": "9"
+                },
+                {
+                    "movie": "Lucyfer",
+                    "score": "3"
+                },
+                {
+                    "movie": "Barbarzyńcy",
+                    "score": "9"
+                },
+                {
+                    "movie": "Para Idealna",
+                    "score": "7"
+                },
+                {
+                    "movie": "Rojst",
+                    "score": "8"
+                },
+                {
+                    "movie": "Polowanie na Czerwony Październik",
+                    "score": "10"
+                },
+                {
+                    "movie": "The Big Bang Theory",
+                    "score": "8"
+                },
+                {
+                    "movie": "Braveheart",
+                    "score": "10"
+                },
+                {
+                    "movie": "The Expanse",
+                    "score": "7"
+                }
+            ]
+        },
+        {
+            "name": "Łukasz Bosak",
+            "recommendations": [
+                {
+                    "movie": "Star wars nowa trylogia",
+                    "score": "2"
+                },
+                {
+                    "movie": "Pingwin",
+                    "score": "9"
+                },
+                {
+                    "movie": "Pulp Fiction",
+                    "score": "10"
+                },
+                {
+                    "movie": "Lord of the rings 1",
+                    "score": "9"
+                },
+                {
+                    "movie": "Kobiety mafii",
+                    "score": "2"
+                },
+                {
+                    "movie": "Dragon Ball",
+                    "score": "8"
+                },
+                {
+                    "movie": "Dziki robot",
+                    "score": "8"
+                },
+                {
+                    "movie": "Lucyfer",
+                    "score": "3"
+                },
+                {
+                    "movie": "Diuna",
+                    "score": "9"
+                },
+                {
+                    "movie": "Cyberpunk: Edgerunners",
+                    "score": "9"
+                }
+            ]
+        },
+        {
+            "name": "Mariusz Buhaj",
+            "recommendations": [
+                {
+                    "movie": "Jak sprzedawać",
+                    "score": "7"
+                },
+                {
+                    "movie": "Samce Alfa",
+                    "score": "7"
+                },
+                {
+                    "movie": "Cztery pokoje",
+                    "score": "10"
+                },
+                {
+                    "movie": "Incepcja",
+                    "score": "8"
+                },
+                {
+                    "movie": "Wyspa tajemnic",
+                    "score": "9"
+                },
+                {
+                    "movie": "Gladiator",
+                    "score": "7"
+                },
+                {
+                    "movie": "Hellbound",
+                    "score": "8"
+                }
+            ]
+        },
+        {
+            "name": "Aleksander Opałka",
+            "recommendations": [
+                {
+                    "movie": "Mr.Robot",
+                    "score": "10"
+                },
+                {
+                    "movie": "Incepcja",
+                    "score": "9"
+                },
+                {
+                    "movie": "Star Wars",
+                    "score": "1"
+                },
+                {
+                    "movie": "Forrest Gump",
+                    "score": "10"
+                },
+                {
+                    "movie": "Avengers: Czas Ultrona",
+                    "score": "1"
+                },
+                {
+                    "movie": "Harry Potter i Kamień Filozoficzny",
+                    "score": "7"
+                },
+                {
+                    "movie": "Matrix",
+                    "score": "8"
+                },
+                {
+                    "movie": "Breaking Bad",
+                    "score": "9"
+                },
+                {
+                    "movie": "Big Short",
+                    "score": "8"
+                },
+                {
+                    "movie": "Hannibal",
+                    "score": "8"
+                }
+            ]
+        },
+        {
+            "name": "Szymon Rosztajn",
+            "recommendations": [
+                {
+                    "movie": "Jak sprzedawać dragi w sieci (szybko)",
+                    "score": "6"
+                },
+                {
+                    "movie": "Star Wars III",
+                    "score": "10"
+                },
+                {
+                    "movie": "Mandalorian",
+                    "score": "8"
+                },
+                {
+                    "movie": "Gra o Tron",
+                    "score": "9"
+                },
+                {
+                    "movie": "2001 ‧ Film familijny/Film fantasy ‧ 2g 32m",
+                    "score": "9"
+                },
+                {
+                    "movie": "Wilk z Wall Street",
+                    "score": "9"
+                },
+                {
+                    "movie": "Auta",
+                    "score": "10"
+                },
+                {
+                    "movie": "Peaky Blinders",
+                    "score": "9"
+                }
+            ]
+        },
+        {
+            "name": "Mateusz Lech",
+            "recommendations": [
+                {
+                    "movie": "W tłumie",
+                    "score": "8"
+                },
+                {
+                    "movie": "Grand Budapest",
+                    "score": "8"
+                },
+                {
+                    "movie": "Czarne Lustro",
+                    "score": "9"
+                },
+                {
+                    "movie": "Auta",
+                    "score": "10"
+                },
+                {
+                    "movie": "Deadpool",
+                    "score": "4"
+                },
+                {
+                    "movie": "Oppenheimer",
+                    "score": "7"
+                },
+                {
+                    "movie": "Shrek",
+                    "score": "10"
+                },
+                {
+                    "movie": "Diuna",
+                    "score": "6"
+                }
+            ]
+        },
+        {
+            "name": "Adrian Goik",
+            "recommendations": [
+                {
+                    "movie": "Miasteczko South Park",
+                    "score": "9"
+                },
+                {
+                    "movie": "Forrest Gump",
+                    "score": "10"
+                },
+                {
+                    "movie": "Kapitan Phillips",
+                    "score": "9"
+                },
+                {
+                    "movie": "Sully",
+                    "score": "10"
+                },
+                {
+                    "movie": "Szkarłatny Pilot",
+                    "score": "9"
+                },
+                {
+                    "movie": "Para Idealna",
+                    "score": "4"
+                },
+                {
+                    "movie": "Dexter",
+                    "score": "6"
+                },
+                {
+                    "movie": "Peaky Blinders",
+                    "score": "9"
+                },
+                {
+                    "movie": "Chłopaki nie płaczą",
+                    "score": "10"
+                },
+                {
+                    "movie": "Killer",
+                    "score": "10"
+                }
+            ]
+        },
+        {
+            "name": "Mateusz Kopczyński",
+            "recommendations": [
+                {
+                    "movie": "Bullet Train",
+                    "score": "6"
+                },
+                {
+                    "movie": "Gladiator",
+                    "score": "9"
+                },
+                {
+                    "movie": "Star Wars IV",
+                    "score": "8"
+                },
+                {
+                    "movie": "Nemo",
+                    "score": "9"
+                },
+                {
+                    "movie": "Auta",
+                    "score": "9"
+                },
+                {
+                    "movie": "Incepcja",
+                    "score": "8"
+                },
+                {
+                    "movie": "Czarne Lustro",
+                    "score": "5"
+                },
+                {
+                    "movie": "Skazani na Shawshank",
+                    "score": "10"
+                },
+                {
+                    "movie": "Interstellar",
+                    "score": "9"
+                },
+                {
+                    "movie": "Mroczny rycerz",
+                    "score": "7"
+                }
+            ]
+        },
+        {
+            "name": "Łukasz Soldatke",
+            "recommendations": [
+                {
+                    "movie": "Gladiator",
+                    "score": "9"
+                },
+                {
+                    "movie": "Gran Torino",
+                    "score": "8"
+                },
+                {
+                    "movie": "Wilk z Wall Street",
+                    "score": "8"
+                },
+                {
+                    "movie": "Braveheart",
+                    "score": "7"
+                },
+                {
+                    "movie": "Forrest Gump",
+                    "score": "7"
+                },
+                {
+                    "movie": "Skazani na Shawshank",
+                    "score": "8"
+                },
+                {
+                    "movie": "Zielona mila",
+                    "score": "9"
+                },
+                {
+                    "movie": "Dzień świra",
+                    "score": "8"
+                },
+                {
+                    "movie": "Chłopaki nie płaczą",
+                    "score": "8"
+                },
+                {
+                    "movie": "Shrek",
+                    "score": "7"
+                }
+            ]
+        },
+        {
+            "name": "Artur Szulc",
+            "recommendations": [
+                {
+                    "movie": "Peaky Blinders",
+                    "score": "10"
+                },
+                {
+                    "movie": "Mandalorian",
+                    "score": "8"
+                },
+                {
+                    "movie": "Dead Pool & Wolverine",
+                    "score": "9"
+                },
+                {
+                    "movie": "Arcane",
+                    "score": "7"
+                },
+                {
+                    "movie": "Breaking Bad",
+                    "score": "8"
+                },
+                {
+                    "movie": "Diuna",
+                    "score": "10"
+                },
+                {
+                    "movie": "Kung Fu Panda",
+                    "score": "10"
+                },
+                {
+                    "movie": "Venom",
+                    "score": "8"
+                },
+                {
+                    "movie": "Shrek",
+                    "score": "8"
+                },
+                {
+                    "movie": "Piraci z Karaibów: Klątwa Czarnej Perły",
+                    "score": "10"
+                }
+            ]
+        },
+        {
+            "name": "Marta Szpilka",
+            "recommendations": [
+                {
+                    "movie": "Lobster",
+                    "score": "7"
+                },
+                {
+                    "movie": "Gra",
+                    "score": "8"
+                },
+                {
+                    "movie": "Joker",
+                    "score": "7"
+                },
+                {
+                    "movie": "Zielona Mila",
+                    "score": "9"
+                },
+                {
+                    "movie": "Skazany na Shawshank",
+                    "score": "9"
+                },
+                {
+                    "movie": "365 dni",
+                    "score": "1"
+                },
+                {
+                    "movie": "Fight Club",
+                    "score": "8"
+                },
+                {
+                    "movie": "Chłopaki nie płaczą",
+                    "score": "10"
+                },
+                {
+                    "movie": "Minionki",
+                    "score": "7"
+                },
+                {
+                    "movie": "Strażnicy Galaktyki",
+                    "score": "9"
+                }
+            ]
+        },
+        {
+            "name": "Michał Cichowski",
+            "recommendations": [
+                {
+                    "movie": "Casino",
+                    "score": "9"
+                },
+                {
+                    "movie": "Heat",
+                    "score": "10"
+                },
+                {
+                    "movie": "Niezwykły przypadek Benjamina Buttona",
+                    "score": "8"
+                },
+                {
+                    "movie": "Ugotowany",
+                    "score": "8"
+                },
+                {
+                    "movie": "Wyspa tajemnic",
+                    "score": "9.5"
+                },
+                {
+                    "movie": "Donnie Brasco",
+                    "score": "8"
+                },
+                {
+                    "movie": "Limitless (Jestem Bogiem)",
+                    "score": "7"
+                },
+                {
+                    "movie": "American Psycho",
+                    "score": "6.5"
+                },
+                {
+                    "movie": "Trylogia: Batmana",
+                    "score": "8.5"
+                },
+                {
+                    "movie": "Se7en",
+                    "score": "10"
+                }
+            ]
+        }
+    ]
+}
