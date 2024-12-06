@@ -14,5 +14,5 @@ Available Algorithms:
 
 ![img_3.png](mc-euclidean.png)
 
-# Authors
+# Author
 - Michał Cichowski

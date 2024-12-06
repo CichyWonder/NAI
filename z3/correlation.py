@@ -8,6 +8,7 @@ def find_common_movies(candidate, other_candidate):
     return set(candidate.recommendations.keys()) & set(other_candidate.recommendations.keys())
 
 
+
 def create_common_scoring(candidate, other_candidate, commonMovies):
     """Extracts scoring for common movies and returns it accordingly to the index"""
     candidate_recommendations = []

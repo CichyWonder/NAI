@@ -21,16 +21,14 @@ class Candidate:
 
 def initialize_data_from_json():
     """Open and load json data from data.json"""
-    f = open('data.json', 'r', encoding='utf-8')
-    data = json.load(f)
+    with open('data.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        print(data)
 
     """Initialize array of candidates objects by mapping each json record to python object"""
     candidates = []
     for jsonCandidate in data['people']:
         candidate = Candidate.from_json_data(jsonCandidate)
         candidates.append(candidate)
-
-    """Close file after being done with objects initialization"""
-    f.close()
 
     return candidates
