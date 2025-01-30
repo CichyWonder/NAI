@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386f30c3-4df2-49ad-ad4e-a45c10f9c3c9" name="Changes" comment="Add excecise from zjazd 6" />
+    <list default="true" id="386f30c3-4df2-49ad-ad4e-a45c10f9c3c9" name="Changes" comment="Add excecise from zjazd 6">
+      <change afterPath="$PROJECT_DIR$/z7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z7/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/z7/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NAI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NAI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z6" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/z6" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -39,27 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.correlation.executor": "Run",
-    "Python.data_initializer.executor": "Run",
-    "Python.fuzzy.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.svc.executor": "Run",
-    "Python.transfusion_decision_tree.executor": "Run",
-    "Python.wine_quality_decision_tree.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Programowanie/NAI",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.correlation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_initializer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fuzzy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.svc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transfusion_decision_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wine_quality_decision_tree.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programowanie/NAI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Programowanie\NAI" />
@@ -70,7 +88,30 @@
       <command value="pip install -r requirements.txt" />
     </option>
   </component>
-  <component name="RunManager" selected="Python.svc">
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z7/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fuzzy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NAI" />
       <option name="ENV_FILES" value="" />
@@ -119,6 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bot" />
         <item itemvalue="Python.svc" />
         <item itemvalue="Python.fuzzy" />
       </list>
@@ -151,7 +193,13 @@
       <workItem from="1733502296279" duration="1288000" />
       <workItem from="1734649145176" duration="281000" />
       <workItem from="1736940834341" duration="31000" />
-      <workItem from="1737046116600" duration="307000" />
+      <workItem from="1737046116600" duration="1951000" />
+      <workItem from="1737204793692" duration="25000" />
+      <workItem from="1737208102720" duration="1278000" />
+      <workItem from="1737209423839" duration="589000" />
+      <workItem from="1738224427451" duration="1925000" />
+      <workItem from="1738251049101" duration="682000" />
+      <workItem from="1738251898895" duration="2435000" />
     </task>
     <task id="LOCAL-00001" summary="Add task about fuzzy logic, and some little changes">
       <option name="closed" value="true" />
@@ -193,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737046194340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add excecise from zjazd 6">
+      <option name="closed" value="true" />
+      <created>1737046954040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737046954040</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add excecise from zjazd 6">
+      <option name="closed" value="true" />
+      <created>1737048216776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737048216776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,17 +281,29 @@
     <MESSAGE value="Add excecise from zjazd 6" />
     <option name="LAST_COMMIT_MESSAGE" value="Add excecise from zjazd 6" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/z7/bot.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NAI$fashion.coverage" NAME="fashion Coverage Results" MODIFIED="1734647875112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_05_Neural_Network" />
-    <SUITE FILE_PATH="coverage/NAI$correlation.coverage" NAME="correlation Coverage Results" MODIFIED="1732367371515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z3" />
-    <SUITE FILE_PATH="coverage/NAI$svc.coverage" NAME="svc Coverage Results" MODIFIED="1733503269470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z4" />
     <SUITE FILE_PATH="coverage/NAI$animals.coverage" NAME="animals Coverage Results" MODIFIED="1734647345534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_05_Neural_Network" />
-    <SUITE FILE_PATH="coverage/NAI$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1734648110079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_05_Neural_Network" />
+    <SUITE FILE_PATH="coverage/NAI$svc.coverage" NAME="svc Coverage Results" MODIFIED="1733503269470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z4" />
+    <SUITE FILE_PATH="coverage/NAI$correlation.coverage" NAME="correlation Coverage Results" MODIFIED="1732367371515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z3" />
     <SUITE FILE_PATH="coverage/NAI$neural_network_winequality.coverage" NAME="neural_network_winequality Coverage Results" MODIFIED="1734646495983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_05_Neural_Network" />
     <SUITE FILE_PATH="coverage/NAI$fuzzy.coverage" NAME="fuzzy Coverage Results" MODIFIED="1733502643067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z2" />
     <SUITE FILE_PATH="coverage/NAI$main.coverage" NAME="main Coverage Results" MODIFIED="1733502708885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z3" />
-    <SUITE FILE_PATH="coverage/NAI$data_initializer.coverage" NAME="data_initializer Coverage Results" MODIFIED="1732366733567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z3" />
+    <SUITE FILE_PATH="coverage/NAI$bot.coverage" NAME="bot Coverage Results" MODIFIED="1738258312002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z7" />
     <SUITE FILE_PATH="coverage/NAI$wine_quality_decision_tree.coverage" NAME="wine_quality_decision_tree Coverage Results" MODIFIED="1733502818125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z4" />
     <SUITE FILE_PATH="coverage/NAI$transfusion_decision_tree.coverage" NAME="transfusion_decision_tree Coverage Results" MODIFIED="1733502803955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z4" />
+    <SUITE FILE_PATH="coverage/NAI$read_image.coverage" NAME="read_image Coverage Results" MODIFIED="1734648110079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab_05_Neural_Network" />
+    <SUITE FILE_PATH="coverage/NAI$data_initializer.coverage" NAME="data_initializer Coverage Results" MODIFIED="1732366733567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z3" />
   </component>
 </project>
